@@ -11,16 +11,14 @@
       "threshold": 100
     }
   },
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "devDependencies": {
     "autod": "*",
     "contributors": "*",
     "should": "*",
     "jshint": "*",
     "cov": "*",
-    "istanbul": "*",
+    "istanbul": "0.4.2",
     "mocha": "*"
   },
   "homepage": "https://github.com/fengmk2/chunkstream",
@@ -34,7 +32,10 @@
     "email": "fengmk2@gmail.com"
   },
   "keywords": [
-    "chunkstream", "chunk", "readstream", "ReadStream"
+    "chunkstream",
+    "chunk",
+    "readstream",
+    "ReadStream"
   ],
   "engines": {
     "node": ">= 0.10.0"
