@@ -11,11 +11,9 @@
       "threshold": 100
     }
   },
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "devDependencies": {
-    "autod": "*",
+    "autod": "2.4.2",
     "contributors": "*",
     "should": "*",
     "jshint": "*",
@@ -34,7 +32,10 @@
     "email": "fengmk2@gmail.com"
   },
   "keywords": [
-    "chunkstream", "chunk", "readstream", "ReadStream"
+    "chunkstream",
+    "chunk",
+    "readstream",
+    "ReadStream"
   ],
   "engines": {
     "node": ">= 0.10.0"
